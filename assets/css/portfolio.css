@@ -860,7 +860,7 @@ img {
 }
 
 .project__img{
-  width:232px;
+  width:400px;
   justify-self: center;
 }
 
@@ -1101,9 +1101,6 @@ img {
   padding:0 .5rem;
 }
 
-.project__img{
-  width:200px;
-}
 .testimonial__data,
 .testimonial__header{
   flex-direction:column;
